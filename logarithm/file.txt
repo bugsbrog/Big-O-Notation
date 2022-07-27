@@ -1,0 +1,9 @@
+Logarithm: the inverse of exponentiation
+
+Logarithms and exponents are a pair
+
+The logarithm of a number roughly measures the number of times you can divide that number by 2 before you get a value that's less than or equal to 1.
+
+O(log n) time complexity is great!
+
+O(nlog n) time complexity is bad but better than O(n^2)!
